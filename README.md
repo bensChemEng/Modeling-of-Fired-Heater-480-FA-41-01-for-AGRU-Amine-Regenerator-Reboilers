@@ -33,10 +33,9 @@ The model solves the mass and energy balances of the radiant and convective sect
 **Major species and unburned products**
 | Species | Model (mol%) | Analyzer (mol%) | Model (mg/Nm³) | Analyzer (mg/Nm³) |
 |---|---|---|---|---|
-| CO₂ | X | X | X | X |
-| H₂O | X | X | X | X |
-| CO | X | X | X | X |
-| C<sub>x</sub>H<sub>y</sub> | X | X | X | X |
+| CO₂ | 12.2617 | 12.4600 | 240759.29 | 244652.87 |
+| CO | 0.0021 | 0.0021 | 25.67 | 25.62 |
+| C<sub>x</sub>H<sub>y</sub> | 0.0457 | 0.0433 | 326.91 | 309.09 |
 
 **Nitrogen oxides**
 | Species | Model (mg/Nm³) | Analyzer (mg/Nm³) | Deviation (%) |
