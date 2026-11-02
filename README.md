@@ -9,7 +9,7 @@ The model solves the mass and energy balances of the radiant and convective sect
 <p align="center">
   <img src="Images/fired_heater_schematic.png" alt="Schematic of the fired heater 480-FA-41-01: radiant and convective sections">
   <br>
-  <em>Schematic view of the fired heater (not to scale; no design values shown).</em>
+  <em>Schematic view of the fired heater (not to scale).</em>
 </p>
 
 
