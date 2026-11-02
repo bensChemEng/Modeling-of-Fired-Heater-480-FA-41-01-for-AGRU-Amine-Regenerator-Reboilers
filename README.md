@@ -9,7 +9,7 @@ The model solves the mass and energy balances of the radiant and convective sect
 
 ### Radiant Section
 - Energy and mass balances solved with the **Lobo-Evans method**.
-- Predicts the **adiabatic flame temperature** and the **bridge wall temperature** at the radiant section exit.
+- Predicts the **Adiabatic Flame Temperature** and the **Bridge Wall Temperature** at the radiant section exit.
 
 ### Convective Section
 - Energy and mass balances solved with the **NTU method**.
@@ -18,15 +18,16 @@ The model solves the mass and energy balances of the radiant and convective sect
 ### Combustion and Flue Gas Species
 - Kinetics ODEs for fuel gas combustion using the **Westbrook-Dryer reduced mechanism** for methane.
 - **Yield-based NOx kinetics**, fine-tuned to match flue gas analyzer measurements.
-- Predicted flue gas species: **CO₂, H₂O, CO, unburned hydrocarbons (C<sub>x</sub>H<sub>y</sub>), NO, NO₂ and total NOx**.
+- Predicted flue gas species: **CO₂, CO, unburned hydrocarbons (C<sub>x</sub>H<sub>y</sub>), NO, NO₂ and total NOx**.
 
 ## Validation
 
 ### Temperatures: Model vs. Plant Data (DCS)
 | Quantity | Model (°C) | Plant data (°C) | Deviation (%) |
 |---|---|---|---|
-| Oil outlet temperature, convective section | 140.80 | 141.0 | 99.86% |
-| Oil outlet temperature, radiant section | 142.35 | 142.67 | 99.77% |
+| Oil Outlet Temperature, Convective Section Exit | 140.80 | 141.0 | 99.86% |
+| Oil Outlet Temperature, Radiant Section Exit| 142.35 | 142.67 | 99.77% |
+| Flue Gases Bridge Wall Temperature, Radiant Section Exit | 463.23 | - | - |
 
 ### Flue Gas Composition: Model vs. AMETEK Land Lancom 4 Portable Flue Gas Analyzer
 
