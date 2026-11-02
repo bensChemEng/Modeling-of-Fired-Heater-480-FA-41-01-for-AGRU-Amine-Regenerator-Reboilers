@@ -56,6 +56,9 @@ The model solves the mass and energy balances of the radiant and convective sect
 ## Tools
 Python
 
+## Skills
+Fired-Heater Modeling - Heat Exchanger Modeling - Radiation Modeling - Combustion Kinetics
+
 ## Notes
 
 Inputs are sanitized or normalized; no confidential plant or vendor data is included.
