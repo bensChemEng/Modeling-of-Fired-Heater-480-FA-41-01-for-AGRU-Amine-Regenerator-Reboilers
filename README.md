@@ -61,6 +61,6 @@ Fired-Heater Modeling - Heat Exchanger Modeling - Radiation Modeling - Combustio
 
 ## Notes
 
-Inputs are sanitized or normalized; no confidential plant or vendor data is included.
+Inputs are sanitized; no confidential plant or vendor data is included.
 
 *This repository is only a preview of some results from the model developed in Python (no code is attached).*
