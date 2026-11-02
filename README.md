@@ -39,6 +39,12 @@ The model solves the mass and energy balances of the radiant and convective sect
 
 ### Flue Gas Composition: Model vs. AMETEK Land Lancom 4 Portable Flue Gas Analyzer
 
+<p align="center">
+  <img src="Images/figure2_methane_kinetics_height.png" alt="Westbrook & Dryer Methane Combustion Solved Mechanism ODEs" width="900">
+  <br>
+  <em>Figure 2: Westbrook & Dryer Methane Combustion Solved Mechanism ODEs.</em>
+</p>
+
 **Major species and unburned products**
 | Species | Model (mol%) | Analyzer (mol%) | Model (mg/Nm³) | Analyzer (mg/Nm³) |
 |---|---|---|---|---|
