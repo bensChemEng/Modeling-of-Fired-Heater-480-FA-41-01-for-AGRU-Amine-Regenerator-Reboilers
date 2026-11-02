@@ -30,18 +30,18 @@ The model solves the mass and energy balances of the radiant and convective sect
 
 ## Validation
 
-<p align="center">
-  <img src="Images/figure3_profile_across_firebox.png" alt="Temperature Profile Across Firebox (Radiant Section)" width="900">
-  <br>
-  <em>Figure 1: Temperature Profile Across Firebox (Radiant Section).</em>
-</p>
-
 ### Temperatures: Model vs. Plant Data (DCS)
 | Parameter | Model (°C) | Plant data (°C) | Deviation (%) |
 |---|---|---|---|
 | Oil Outlet Temperature, Convective Section Exit | 140.80 | 141.0 | 99.86% |
 | Oil Outlet Temperature, Radiant Section Exit| 142.35 | 142.67 | 99.77% |
 | Flue Gases Bridge Wall Temperature, Radiant Section Exit | 463.23 | - | - |
+
+<p align="center">
+  <img src="Images/figure3_profile_across_firebox.png" alt="Temperature Profile Across Firebox (Radiant Section)" width="900">
+  <br>
+  <em>Figure 1: Temperature Profile Across Firebox (Radiant Section).</em>
+</p>
 
 ### Flue Gas Composition: Model vs. AMETEK Land Lancom 4 Portable Flue Gas Analyzer
 
