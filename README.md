@@ -15,16 +15,22 @@ The model solves the mass and energy balances of the radiant and convective sect
 - Energy and mass balances solved with the **NTU method**.
 - Predicts the oil outlet temperature from the convective section.
 
-### Combustion and Pollutant Kinetics
+### Combustion and Flue Gas Species
 - Kinetics ODEs for fuel gas combustion using the **Westbrook-Dryer reduced mechanism** for methane.
 - **Yield-based NOx kinetics**, fine-tuned to match flue gas analyzer measurements (AMETEK Land Lancom 4 portable analyzer).
+- Predicted flue gas species: **CO₂, H₂O, CO, unburned hydrocarbons (C<sub>x</sub>H<sub>y</sub>), NO and NO₂**.
 
 ## Validation
 | Quantity | Model | Plant data | Deviation |
 |---|---|---|---|
 | Oil outlet temperature, convective section | X °C | X °C | X % |
 | Oil outlet temperature, radiant section | X °C | X °C | X % |
-| Flue gas NOx | X | X | X % |
+| CO₂ | X | X | X % |
+| H₂O | X | X | X % |
+| CO | X | X | X % |
+| C<sub>x</sub>H<sub>y</sub> | X | X | X % |
+| NO | X | X | X % |
+| NO₂ | X | X | X % |
 
 ## Tools
 Python
