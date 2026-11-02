@@ -18,7 +18,7 @@ The model solves the mass and energy balances of the radiant and convective sect
 ### Combustion and Flue Gas Species
 - Kinetics ODEs for fuel gas combustion using the **Westbrook-Dryer reduced mechanism** for methane.
 - **Yield-based NOx kinetics**, fine-tuned to match flue gas analyzer measurements.
-- Predicted flue gas species: **CO₂, H₂O, CO, unburned hydrocarbons (C<sub>x</sub>H<sub>y</sub>), NO and NO₂**.
+- Predicted flue gas species: **CO₂, H₂O, CO, unburned hydrocarbons (C<sub>x</sub>H<sub>y</sub>), NO, NO₂ and total NOx**.
 
 ## Validation
 
@@ -29,14 +29,21 @@ The model solves the mass and energy balances of the radiant and convective sect
 | Oil outlet temperature, radiant section | X | X | X |
 
 ### Flue Gas Composition: Model vs. AMETEK Land Lancom 4 Portable Flue Gas Analyzer
-| Species | Unit | Model | Analyzer | Deviation (%) |
+
+**Major species and unburned products**
+| Species | Model (mol%) | Analyzer (mol%) | Model (mg/Nm³) | Analyzer (mg/Nm³) |
 |---|---|---|---|---|
-| CO₂ | vol% | X | X | X |
-| H₂O | vol% | X | X | X |
-| CO | ppm | X | X | X |
-| C<sub>x</sub>H<sub>y</sub> | ppm | X | X | X |
-| NO | ppm | X | X | X |
-| NO₂ | ppm | X | X | X |
+| CO₂ | X | X | X | X |
+| H₂O | X | X | X | X |
+| CO | X | X | X | X |
+| C<sub>x</sub>H<sub>y</sub> | X | X | X | X |
+
+**Nitrogen oxides**
+| Species | Model (mg/Nm³) | Analyzer (mg/Nm³) | Deviation (%) |
+|---|---|---|---|
+| NO | X | X | X |
+| NO₂ | X | X | X |
+| Total NOx | X | X | X |
 
 ## Tools
 Python
