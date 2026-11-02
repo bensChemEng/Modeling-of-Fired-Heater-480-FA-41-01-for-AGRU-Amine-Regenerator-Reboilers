@@ -38,11 +38,11 @@ The model solves the mass and energy balances of the radiant and convective sect
 | C<sub>x</sub>H<sub>y</sub> | 0.0457 | 0.0433 | 326.91 | 309.09 |
 
 **Nitrogen oxides**
-| Species | Model (mg/Nm³) | Analyzer (mg/Nm³) | Deviation (%) |
+| Species | Model (mg/Nm³) | Analyzer (mg/Nm³) | Ratio |
 |---|---|---|---|
-| NO | X | X | X |
-| NO₂ | X | X | X |
-| Total NOx | X | X | X |
+| NO | 16.2981 |  16.3040 | 99.964 %|
+| NO₂ | 0.1301 | 0.1310 | 99.313 %|
+| Total NOx | 16.4283 | 16.4350 | 99.96 % |
 
 ## Tools
 Python
