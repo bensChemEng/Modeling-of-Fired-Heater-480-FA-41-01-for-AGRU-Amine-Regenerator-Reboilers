@@ -9,7 +9,7 @@ The model solves the mass and energy balances of the radiant and convective sect
 <p align="center">
   <img src="Images/fired_heater_schematic.png" alt="Schematic of the fired heater 480-FA-41-01: radiant and convective sections">
   <br>
-  <em>Schematic view of the fired heater (not to scale).</em>
+  <em>Figure 1: Schematic view of the fired heater (not to scale).</em>
 </p>
 
 
@@ -40,7 +40,7 @@ The model solves the mass and energy balances of the radiant and convective sect
 <p align="center">
   <img src="Images/figure3_profile_across_firebox.png" alt="Temperature Profile Across Firebox (Radiant Section)" width="900">
   <br>
-  <em>Figure 1: Temperature Profile Across Firebox (Radiant Section).</em>
+  <em>Figure 2: Temperature Profile Across Firebox (Radiant Section).</em>
 </p>
 
 ### Flue Gas Composition: Model vs. AMETEK Land Lancom 4 Portable Flue Gas Analyzer
@@ -55,7 +55,7 @@ The model solves the mass and energy balances of the radiant and convective sect
 <p align="center">
   <img src="Images/figure2_methane_kinetics_height.png" alt="Westbrook & Dryer Methane Combustion Mechanism Solved ODEs" width="900">
   <br>
-  <em>Figure 2: Westbrook & Dryer Methane Combustion Solved Mechanism ODEs.</em>
+  <em>Figure 3: Westbrook & Dryer Methane Combustion Solved Mechanism ODEs.</em>
 </p>
 
 **Nitrogen oxides**
@@ -68,7 +68,7 @@ The model solves the mass and energy balances of the radiant and convective sect
 <p align="center">
   <img src="Images/figure4_NOx_yield_kinetics.png" alt="Yield-based NOx Solved kinetics ODEs" width="900">
   <br>
-  <em>Figure 3: Yield-based NOx Solved kinetics ODEs.</em>
+  <em>Figure 4: Yield-based NOx Solved kinetics ODEs.</em>
 </p>
 
 
