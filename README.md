@@ -31,7 +31,7 @@ The model solves the mass and energy balances of the radiant and convective sect
 ## Validation
 
 ### Temperatures: Model vs. Plant Data (DCS)
-| Quantity | Model (°C) | Plant data (°C) | Deviation (%) |
+| Parameter | Model (°C) | Plant data (°C) | Deviation (%) |
 |---|---|---|---|
 | Oil Outlet Temperature, Convective Section Exit | 140.80 | 141.0 | 99.86% |
 | Oil Outlet Temperature, Radiant Section Exit| 142.35 | 142.67 | 99.77% |
