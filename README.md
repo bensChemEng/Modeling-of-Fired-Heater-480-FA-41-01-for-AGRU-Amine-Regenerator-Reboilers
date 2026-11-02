@@ -21,7 +21,7 @@ The model solves the mass and energy balances of the radiant and convective sect
 - Predicted flue gas species: **CO₂, H₂O, CO, unburned hydrocarbons (C<sub>x</sub>H<sub>y</sub>), NO and NO₂**.
 
 ## Validation
-| Quantity | Model | Plant data | Deviation |
+| Quantity | Model | AMETEK Land Lancom 4 Portable Flue Gas Analyzer | Deviation |
 |---|---|---|---|
 | Oil outlet temperature, convective section | X °C | X °C | X % |
 | Oil outlet temperature, radiant section | X °C | X °C | X % |
