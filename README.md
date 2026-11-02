@@ -5,7 +5,7 @@ Rigorous Python model of the vertical cylindrical hot oil heating fired heater 4
 ## Overview
 The model solves the mass and energy balances of the radiant and convective sections, predicts the key flame and furnace temperatures, and couples them with combustion and NOx kinetics. Predicted oil outlet temperatures were compared with plant (DCS) data, and predicted flue gas composition was compared with portable flue gas analyzer measurements.
 
-![Schematic of the fired heater 480-FA-41-01: radiant and convective sections](figures/fired_heater_schematic.png)
+![Schematic of the fired heater 480-FA-41-01: radiant and convective sections](Images/fired_heater_schematic.png)
 *Schematic view of the fired heater (not to scale; no design values shown).*
 
 
