@@ -30,6 +30,12 @@ The model solves the mass and energy balances of the radiant and convective sect
 
 ## Validation
 
+<p align="center">
+  <img src="Images/figure3_profile_across_firebox.png" alt="Temperature Profile Across Firebox (Radiant Section)" width="900">
+  <br>
+  <em>Figure 1: Temperature Profile Across Firebox (Radiant Section).</em>
+</p>
+
 ### Temperatures: Model vs. Plant Data (DCS)
 | Parameter | Model (°C) | Plant data (°C) | Deviation (%) |
 |---|---|---|---|
