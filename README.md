@@ -25,8 +25,8 @@ The model solves the mass and energy balances of the radiant and convective sect
 ### Temperatures: Model vs. Plant Data (DCS)
 | Quantity | Model (°C) | Plant data (°C) | Deviation (%) |
 |---|---|---|---|
-| Oil outlet temperature, convective section | X | X | X |
-| Oil outlet temperature, radiant section | X | X | X |
+| Oil outlet temperature, convective section | 140.80 | 141.0 | 99.86% |
+| Oil outlet temperature, radiant section | 142.35 | 142.67 | 99.77% |
 
 ### Flue Gas Composition: Model vs. AMETEK Land Lancom 4 Portable Flue Gas Analyzer
 
@@ -40,9 +40,9 @@ The model solves the mass and energy balances of the radiant and convective sect
 **Nitrogen oxides**
 | Species | Model (mg/Nm³) | Analyzer (mg/Nm³) | Ratio |
 |---|---|---|---|
-| NO | 16.2981 |  16.3040 | 99.964 %|
-| NO₂ | 0.1301 | 0.1310 | 99.313 %|
-| Total NOx | 16.4283 | 16.4350 | 99.96 % |
+| NO | 16.2981 |  16.3040 | 99.964%|
+| NO₂ | 0.1301 | 0.1310 | 99.313%|
+| Total NOx | 16.4283 | 16.4350 | 99.96%|
 
 ## Tools
 Python
