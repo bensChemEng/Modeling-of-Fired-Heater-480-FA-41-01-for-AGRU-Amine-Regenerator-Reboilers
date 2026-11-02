@@ -65,6 +65,13 @@ The model solves the mass and energy balances of the radiant and convective sect
 | NO₂ | 0.1301 | 0.1310 | 99.313%|
 | Total NOx | 16.4283 | 16.4350 | 99.96%|
 
+<p align="center">
+  <img src="Images/figure4_NOx_yield_kinetics.png" alt="Yield-based NOx Solved kinetics ODEs" width="900">
+  <br>
+  <em>Figure 3: Yield-based NOx Solved kinetics ODEs.</em>
+</p>
+
+
 ## Tools
 Python
 
