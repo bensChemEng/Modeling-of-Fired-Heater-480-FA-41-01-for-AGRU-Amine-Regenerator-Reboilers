@@ -1,3 +1,5 @@
+[English](README.md) | [Deutsch](README.de.md) | [Français](README.fr.md)
+
 # Rigorous Modeling of the 480-FA-41-01 Vertical Cylindrical Hot Oil Heating Fired Heater Used in the Acid Gas Removal Unit Amine Regenerator Reboilers (Rhourde Nouss Natural Gas Central Processing Facility, Southeastern Algeria) - Python
 
 Rigorous Python model of the vertical cylindrical hot oil heating fired heater 480-FA-41-01, which supplies the amine regenerator reboilers of the Acid Gas Removal Unit (AGRU) at the Rhourde Nouss Natural Gas Central Processing Facility, southeastern Algeria.
